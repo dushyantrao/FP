@@ -1,0 +1,25 @@
+Set s
+import common
+import FunSets.common._
+console
+compile
+:q
+exit
+compile
+import common._
+run
+test
+exit
+test
+syntaxCheck
+styleCheck
+test
+exit
+test
+exit
+test
+submit dushyant.rao@gmail.com Bv9XAp3wdp
+exit
+List(1,2,3)
+console
+exit
